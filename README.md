@@ -8,3 +8,9 @@ reasons:
 
 Segments:
 around 1k (~0.5%) rows of delay data exluded are segments which should not pose as any selection bias to the end results 
+
+date range 2014.01.01 - 2026.06.30, ~ 12.5 years
+
+when adjusted for differences between full range data and 2018 and onward data, highway 7 station and many of the line 1 extensions jumped double digit ranks in the ranking (i.e it has worst delay) this can be explain that in 2017 the line 1 was extended to include various more station which leaves the total amount for data collected for those station to be smaller than the older stations
+
+
